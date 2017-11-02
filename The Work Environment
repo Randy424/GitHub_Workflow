@@ -11,7 +11,9 @@ NOW,
      settings. 
      
   4. Open your local repo with Gitkraken. (That earlier mentioned reason: It's important that local repo is downloaded intially by Github
-     for Desktop-- GitKraken will rely on the .git folder that the app provides its repo's.) 
+     for Desktop-- GitKraken will rely on the .git folder that the app provides its repo's.) You should be able see the history of the code.
+     More importantly, the remote repo that this clone correponds (your forked repo on github) should be visible under the "remote" tab in 
+     GitKraken. 
      
   5. Then, simply open the repository with Android studio. The app will likely ask to build a project directory (this is fine). 
      
