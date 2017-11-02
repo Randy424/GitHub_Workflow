@@ -6,7 +6,9 @@ we will be managing two repos: the HACKFSU_Android repo (our organization's mast
 NOW, let's go through our typical edit, testing, and committing process. 
 
 1. Initially, it's important that you have a goal for your edits/additions. So start by taking a peep at the HACKFSU_Android's "issues"
-   page. Find an issue to work on (it doesn't have to be something you're already capable of doing without research or without asking      for help. Typically each issue we work on will require some kind of collaboration--whether via asking for help from another person or    finding the code you need online).
+   page. Find an issue to work on (it doesn't have to be something you're already capable of doing without research or without asking    
+   for help. Typically each issue we work on will require some kind of collaboration--whether via asking for help from another person or 
+   finding the code you need online).
    
  2. Once you find an issue to work on, "assign" it to yourself and feel free to add "labels" depending on your needs (if you "need           help", for example). 
 
@@ -17,7 +19,11 @@ NOW, let's go through our typical edit, testing, and committing process.
   5. Once you've staged all the changes you want to commit, right click on your branch within the timeline then push the branch and          start a pull request!
     
    
-   The beauty of this method lies in the forked repo we are pushing to. In your Github you can see the changes you just pushed to your forked repo. This repo functions essentially as a buffer to our primary HackFSU repo. To update the changes within your forked repo click on "pull requests", from the forked repo page, select your recent commits and merge them. When you're done and you're confident that your code should be synched with the main repo click "new pull request" (from the forked repository page) and Github will compare your repo to the HackFsu repo. From there you can officially submit your commits (Don't forget to fill out those description fields!).
+   The beauty of this method lies in the forked repo we are pushing to. In your Github you can see the changes you just pushed to your 
+   forked repo. This repo functions essentially as a buffer to our primary HackFSU repo. To update the changes within your forked repo
+   click on "pull requests", from the forked repo page, select your recent commits and merge them. When you're done and you're confident
+   that your code should be synched with the main repo click "new pull request" (from the forked repository page) and Github will compare
+   your repo to the HackFsu repo. From there you can officially submit your commits (Don't forget to fill out those description fields!).
    
    
    
