@@ -11,11 +11,16 @@ NOW,
      settings. 
      
   4. Open your local repo with Gitkraken. (That earlier mentioned reason: It's important that local repo is downloaded intially by Github
-     for Desktop-- GitKraken will rely on the .git folder that the app provides its repo's.) Once the repo is open you should be able see      the history of the code. More importantly, you should be able to see the "remote" repo that this clone correponds to (your forked          repo on github) should be visible under the "remote" tab in GitKraken. 
+     for Desktop-- GitKraken will rely on the .git folder that the app provides its repo's.) Once the repo is open you should be able see  
+     the history of the code. More importantly, you should be able to see the "remote" repo that this clone correponds to (your forked 
+     repo on github) should be visible under the "remote" tab in GitKraken. 
      
   5. Finally, simply open the local repository with Android studio. The app will likely ask to build a project directory (this is fine). 
      
-    If you find that Android studio cannot find "git.exe", you should be able to find it in the GitHubDesktop program directory (if you're using windows it will look something like "C:\Users\*your_user_name*\AppData\Local\GitHubDesktop\app-1.0.4\resources\app") That also happens to be the second reason we are downloading GitHubDesktop. For whatever reason, the GitKraken and Android studio apps seem to have a conflict involving git.exe. This is work-around. 
+    If you find that Android studio cannot find "git.exe", you should be able to find it in the GitHubDesktop program directory 
+    (if you're using windows it will look something like "C:\Users\*your_user_name*\AppData\Local\GitHubDesktop\app-1.0.4\resources\app")
+    That also happens to be the second reason we are downloading GitHubDesktop. For whatever reason, the GitKraken and Android studio apps
+    seem to have a conflict involving git.exe. This is work-around. 
      
    And that is basically the short of our setup. 
 
