@@ -10,13 +10,25 @@ NOW, let's go through our typical edit, testing, and committing process.
    for help. Typically each issue we work on will require some kind of collaboration--whether via asking for help from another person or 
    finding the code you need online).
    
- 2. Once you find an issue to work on, "assign" it to yourself and feel free to add "labels" depending on your needs (if you "need           help", for example). 
+ 2. Once you find an issue to work on, "assign" it to yourself and feel free to add "labels" depending on your needs (if you "need  
+ help", for example). 
 
- 3. Using Andriod Studio, make your edits and test the code on your local repo. It's important that commits don't lead to broken code;       so make sure your version of the app is functioning before you consider making a commit (For the record, a commit is simply a change     you are proposing for a repo's code). You should also go to GitKraken and make a new branch. Start by clicking on the master branch     of your LOCAL repo. Press the branch button and give the branch a name that has to do with the issue you are working on.   
+ 3. Using Andriod Studio, make your edits and test the code on your local repo. It's important that commits don't lead to broken code;
+ so make sure your version of the app is functioning before you consider making a commit (For the record, a commit is simply a change
+ you are proposing for a repo's code). You should also go to GitKraken and make a new branch. Start by clicking on the master branch 
+ of your LOCAL repo. Press the branch button and give the branch a name that has to do with the issue you are working on.   
 
- 4. Once you are ready to make your commit (your edits/additions are complete and have tested well), go to GitKraken. GitKraken should       already have noticed your changes. Make sure you are working within the branch you just created (take a look at the upper left hand     side of the gitkracken app, beside the repository management button you should see your current repository (something like:"HackFSU-     Android") followed by the branch you are currently working on.) Make sure you're in your new "issue specific" branch and not the         master. Click on the files that are relevent to the issue you've worked on and stage them. Make sure you include the details on each     of your changes. A text field for this should appear at the bottom right of the app. You can use "#" to reference issues directly       (for example, to reference issue #6, I can include the string "#6" in my commit description and a hotlink will be produced linking       your commit to the issue page in question). Commits you successfully stage here will be set on the branch your working in. 
+ 4. Once you are ready to make your commit (your edits/additions are complete and have tested well), go to GitKraken. GitKraken should
+ already have noticed your changes. Make sure you are working within the branch you just created (take a look at the upper left hand 
+ side of the gitkracken app, beside the repository management button you should see your current repository (something like:"HackFSU- 
+ Android") followed by the branch you are currently working on.) Make sure you're in your new "issue specific" branch and not the
+ master. Click on the files that are relevent to the issue you've worked on and stage them. Make sure you include the details on each   
+ of your changes. A text field for this should appear at the bottom right of the app. You can use "#" to reference issues directly 
+ (for example, to reference issue #6, I can include the string "#6" in my commit description and a hotlink will be produced linking
+ your commit to the issue page in question). Commits you successfully stage here will be set on the branch your working in. 
     
-  5. Once you've staged all the changes you want to commit, right click on your branch within the timeline then push the branch and          start a pull request!
+  5. Once you've staged all the changes you want to commit, right click on your branch within the timeline then push the branch and  
+  start a pull request!
     
    
    The beauty of this method lies in the forked repo we are pushing to. In your Github you can see the changes you just pushed to your 
