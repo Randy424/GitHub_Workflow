@@ -22,10 +22,11 @@ NOW, let's go through our typical edit, testing, and committing process.
  already have noticed your changes. Make sure you are working within the branch you just created (take a look at the upper left hand 
  side of the gitkracken app, beside the repository management button you should see your current repository (something like:"HackFSU- 
  Android") followed by the branch you are currently working on.) Make sure you're in your new "issue specific" branch and not the
- master. Click on the files that are relevent to the issue you've worked on and stage them. Make sure you include the details on each   
- of your changes. A text field for this should appear at the bottom right of the app. You can use "#" to reference issues directly 
- (for example, to reference issue #6, I can include the string "#6" in my commit description and a hotlink will be produced linking
- your commit to the issue page in question). Commits you successfully stage here will be set on the branch your working in. 
+ master. Click on the files that are relevent to the issue you've worked on and stage them. Don't stage "local.property files!" Make 
+ sure you include the details on each of your changes. A text field for this should appear at the bottom right of the app. You can use
+ "#" to reference issues directly (for example, to reference issue #6, I can include the string "#6" in my commit description and a 
+ hotlink will be produced linking your commit to the issue page in question). Commits you successfully stage here will be set on the 
+ branch your working in. 
     
   5. Once you've staged all the changes you want to commit, right click on your branch within the timeline then push the branch and  
   start a pull request!
