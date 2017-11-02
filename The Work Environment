@@ -15,7 +15,7 @@ NOW,
      More importantly, the remote repo that this clone correponds (your forked repo on github) should be visible under the "remote" tab in 
      GitKraken. 
      
-  5. Then, simply open the repository with Android studio. The app will likely ask to build a project directory (this is fine). 
+  5. Finally, simply open the repository with Android studio. The app will likely ask to build a project directory (this is fine). 
      
      If you find that Android studio cannot find "git.exe", you should be able to find it in the GitHubDesktop program directory (if you're
      using windows it will look something like "C:\Users\*your_user_name*\AppData\Local\GitHubDesktop\app-1.0.4\resources\app", mac users
