@@ -1,0 +1,26 @@
+Optimally, we want to write and test our code with Android studio and submit our changes to that code using Gitkracken.
+And this can be accomplished pretty simply (intially you want to make sure you already have a github account, that
+you have access to our hackFSU repo, that you have Android Studio installed and that you have forked that repo onto your account):
+
+NOW,
+  1. Download & install GitHub for Desktop (there are a few reasons for this step--I'll get to them shortly)
+  
+  2. Sign into your github account in the desktop app and clone your forked repository onto your computer (this will be your 'local' repo).
+  
+  3. Download & install Gitkraken. Make sure to sign into the app with your Github and to provide your name and profile name in profile
+     settings. 
+     
+  4. Open your local repo with Gitkraken. (That earlier mentioned reason: It's important that local repo is downloaded intially by Github
+     for Desktop-- GitKraken will rely on the .git folder that the app provides its repo's.) 
+     
+  5. Then, simply open the repository with Android studio. The app will likely ask to build a project directory (this is fine). 
+     
+     If you find that Android studio cannot find "git.exe", you should be able to find it in the GitHubDesktop program directory (if you're
+     using windows it will look something like "C:\Users\*your_user_name*\AppData\Local\GitHubDesktop\app-1.0.4\resources\app", mac users
+     will have to find it themselves) That also happens to be the second reason we are downloading GitHubDesktop. For whatever reason, the
+     GitKraken and Android studio apps seem to have a conflict involving git.exe. This is work-around. 
+     
+    
+   And that is basically the short of our setup. 
+
+Recently, however, we've run into conflicts involving 
