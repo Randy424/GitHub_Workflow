@@ -5,13 +5,13 @@ Some Guidelines for managing our work in the Android repo
 I want to begin by mentioning some issues we've been continually running in our first real project involving version control: 
 
 
-1. Learning from and developing on the code simulatneously.
-    i. This has been leading to errors or bugs in our (or your local) repo (not necessarily a bad thing, you have to fail sometimes to            learn; it is however something that needs to be managed strictly). 
+1. Optimizing our work environment (Github-GitKraken-GitHub Desktop)
+    i. The process by which we submit our commits, test new code, and manage our versions.  
+    ii. Getting Andriod studio and GitKraken to work along side each other has been tricky. I have found a solutioin to this.  
 
 
-2. Mastering our work flow (Github-GitKraken-GitHub Desktop)
-    i. The process by which we submit our commits, test new code, and manage our versions. This is pretty closely realted to the previous issue. 
-    
+2. Learning from and developing on the code simulatneously.
+      i. This has been leading to errors or bugs in our (or your local) repo (not necessarily a bad thing, you have to fail sometimes to            learn; it is however something that needs to be managed strictly). This is pretty closely realted to the previous issue.
     
 3. Making real progress
     i. Seeing issues as assignments; tackling them head on. 
